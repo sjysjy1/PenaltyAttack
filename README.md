@@ -1,5 +1,5 @@
 # PenaltyAttack
-Our experiment is done with Python3.11. 
+Our experiment is based on Python3.11. 
 ### Requirements
 - pytorch
 - torchvision
